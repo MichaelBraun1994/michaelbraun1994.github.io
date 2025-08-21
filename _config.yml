@@ -3,10 +3,12 @@
 #google_analytics: UA-NNNNNNNN-N
 
 header_pages:
-  - index.md
-#  - about.md
+  - src/index.md
+  - src/projects.md
+  - src/about.md
+  - src/contact.md
 
-footer: 'lorem ipsum'
+footer: 'This is just a test.'
 
 style: light # dark (default) or light
 listen_for_clients_preferred_style: true # true or false (default)
