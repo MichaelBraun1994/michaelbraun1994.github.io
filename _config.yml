@@ -9,7 +9,8 @@ header_pages:
   - src/about.md
   - src/contact.md
 
-footer: 'This is just a test.'
+footer: '<p>© 2025 Max Mustermann</p>
+<p><a href="/impressum.html">Impressum</a> | <a href="/datenschutz.html">Datenschutz</a></p>'
 
 style: light # dark (default) or light
 listen_for_clients_preferred_style: true # true or false (default)
