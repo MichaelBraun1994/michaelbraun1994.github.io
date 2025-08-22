@@ -6,8 +6,8 @@ permalink: /about
 
 # About Me
 
-I hold a M. Sc. in computer science and have been working with linux-based systems and C/C++ for over a decade. My professional interests lie primarily in software engineering and software architecture, with a strong emphasis on C++ and python development.
+I'm a software engineer based in Germany with an MSc in Computer Science and over ten years of experience working with Linux systems and C/C++. My main interests are in software engineering and architecture, with a focus on clean, maintainable code, C++ and Python development.
 
-This site serves as a space to document technical insights, development practices, and architectural considerations encountered throughout my work. It reflects both my commitment to clean, maintainable code and my ongoing exploration of my favorite topics - computer science, math and physics.
+This site is where I share technical insights, development practices, and architectural ideas from my projects and other sources. It’s also a space to explore topics that I care about in more depth, such as computer science, mathematics, and physics.
 
-Whether you're here to exchange ideas or simply browsing for inspiration, I appreciate your visit.
+Thanks for stopping by. Whether you're here to exchange ideas or simply browsing, I hope you find something useful. Feel free to reach out with suggestions or to start a conversation.
