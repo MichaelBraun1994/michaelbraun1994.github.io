@@ -5,6 +5,7 @@
 header_pages:
   - src/index.md
   - src/projects.md
+  - src/docs.md
   - src/about.md
   - src/contact.md
 

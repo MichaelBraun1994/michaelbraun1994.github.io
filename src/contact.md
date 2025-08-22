@@ -6,4 +6,4 @@ permalink: /contact
 
 # Contact
 
-This is the contact lorem ipsum.
+Contact me at <contact@michaelbraun.dev>.
