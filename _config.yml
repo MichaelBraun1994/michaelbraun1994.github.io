@@ -9,8 +9,8 @@ header_pages:
   - src/about.md
   - src/contact.md
 
-footer: '<p>© 2025 Max Mustermann</p>
-<p><a href="/impressum.html">Impressum</a> | <a href="/datenschutz.html">Datenschutz</a></p>'
+footer: '<p>© 2025 Michael Braun</p>
+<p><a href="/contact">Impressum</a> | <a href="/datenschutz">Datenschutz</a></p>'
 
 style: light # dark (default) or light
 listen_for_clients_preferred_style: true # true or false (default)
