@@ -8,7 +8,7 @@ header_pages:
   - src/contact.md
 
 footer: '<p>© 2025 Michael Braun</p>
-<p><a href="/contact">Impressum</a> | <a href="/datenschutz">Datenschutz</a> | <a href="https://github.com/MichaelBraun1994">GitHub</a></p>'
+<p><a href="/contact">Imprint</a> | <a href="/privacypolicy">Privacy Policy</a> | <a href="https://github.com/MichaelBraun1994">GitHub</a></p>'
 
 style: light # dark (default) or light
 listen_for_clients_preferred_style: true # true or false (default)
