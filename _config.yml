@@ -3,6 +3,7 @@ google_analytics: G-JPG883L981
 header_pages:
   - src/index.md
   - src/projects.md
+  - src/blog.md
   - src/docs.md
   - src/about.md
   - src/contact.md

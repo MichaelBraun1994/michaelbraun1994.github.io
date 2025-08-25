@@ -1,6 +1,6 @@
 ---
 title: /docs
-layout: home
+layout: page 
 permalink: /docs
 ---
 
