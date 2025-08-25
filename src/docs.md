@@ -8,18 +8,10 @@ permalink: /docs
 
 A curated list of books and articles that offered me valuable insights.
 
-### [Book Title](https://link-to-book.com)
-**ISBN:** 978-3-16-148410-0
-**Description:** A brief summary of what the book covers, its relevance, or why it's worth reading.
+# Computer Science
 
-### [Book Title](https://link-to-book.com)
-**ISBN:** 978-3-16-148410-0
-**Description:** A brief summary of what the book covers, its relevance, or why it's worth reading.
-
-### [Book Title](https://link-to-book.com)
-**ISBN:** 978-3-16-148410-0
-**Description:** A brief summary of what the book covers, its relevance, or why it's worth reading.
-
-### [Book Title](https://link-to-book.com)
-**ISBN:** 978-3-16-148410-0
-**Description:** A brief summary of what the book covers, its relevance, or why it's worth reading.
+{% for book in site.data.books.computer_science_books %}
+## {{ book.title }}
+*(By {{ book.author }}, {{ book.published }}, ISBN: {{ book.isbn }})*
+<p>{{ book.description }}</p>
+{% endfor %}

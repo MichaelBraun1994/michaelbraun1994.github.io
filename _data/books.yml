@@ -1,0 +1,48 @@
+computer_science_books:
+  - title: "A Philosophy of Software Design"
+    author: "John Ousterhout"
+    isbn: "9781732102200"
+    published: "2018"
+    description: "This book tackles the core challenge of software development: managing complexity. Ousterhout presents a set of design principles and red flags to help developers write simpler, more maintainable code. It’s a thoughtful guide to thinking clearly about software architecture and long-term code health."
+
+  - title: "Clean Code: A Handbook of Agile Software Craftsmanship"
+    author: "Robert C. Martin"
+    isbn: "9780132350884"
+    published: "2008"
+    description: "A practical guide to writing readable, maintainable, and efficient code, with real-world examples and principles."
+
+  - title: "The Clean Coder: A Code of Conduct for Professional Programmers"
+    author: "Robert C. Martin"
+    isbn: "9780137081073"
+    published: "2011"
+    description: "A guide to professional behavior and discipline in software development. Uncle Bob shares hard-earned lessons on responsibility, communication, and craftsmanship, helping developers navigate the human side of coding."
+
+  - title: "The Pragmatic Programmer: Your Journey to Mastery (20th Anniversary Edition)"
+    author: "Andrew Hunt and David Thomas"
+    isbn: "9780135957059"
+    published: "2019"
+    description: "A modern classic that offers timeless advice on becoming a better programmer. Covers everything from career development to architectural techniques, with practical tips and memorable analogies like 'rubber duck debugging' and 'stone soup.'"
+
+  - title: "Test Driven Development for Embedded C"
+    author: "James W. Grenning"
+    isbn: "9781934356623"
+    published: "2011"
+    description: "The definitive guide to applying TDD in embedded systems. Grenning walks through real-world examples in C, showing how to write clean, testable code close to the hardware while improving design and reducing defects."
+
+  - title: "Basiswissen Requirements Engineering"
+    author: "Klaus Pohl and Chris Rupp"
+    isbn: "9783898646130"
+    published: "2009"
+    description: "A comprehensive guide aligned with the IREB Certified Professional for Requirements Engineering (CPRE) Foundation Level. Covers key topics such as requirements elicitation, documentation, validation, and management, making it essential for anyone preparing for the CPRE exam or working in system development."
+
+  - title: "Basiswissen Softwaretest"
+    author: "Andreas Spillner and Tilo Linz"
+    isbn: "9783864900242"
+    published: "2012"
+    description: "This standard reference for software testing is tailored to the ISTQB Certified Tester Foundation Level. It explains core testing concepts, techniques, and tools, with practical examples and a structured approach for both self-study and formal training."
+
+  - title: "Introduction to Algorithms"
+    author: "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein"
+    isbn: "9780262046305"
+    published: "2022"
+    description: "Widely regarded as the definitive textbook on algorithms, this comprehensive volume covers everything from basic data structures to advanced algorithmic techniques. Written with mathematical rigor and clarity, it’s a staple in university courses and a trusted reference for professionals in the field."
