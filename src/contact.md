@@ -30,4 +30,4 @@ Email: contact@michaelbraun.dev
 Bayerische Landeszentrale für neue Medien
 Germany
 
-This Legal Notice complies with the German laws under § 5 DDG and § 55 RStV.
+This Legal Notice complies with the German laws under § 5 DDG and § 18 MStV.
