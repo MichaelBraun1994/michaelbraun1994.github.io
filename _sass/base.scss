@@ -148,3 +148,39 @@ pre { background-color: var(--background-color);  border: none;  padding: 0;  ma
 .highlight .vg { color: var(--code-color-7); } /* Name.Variable.Global */
 .highlight .vi { color: var(--code-color-7); } /* Name.Variable.Instance */
 .highlight .il { color: var(--code-color-14); } /* Literal.Number.Integer.Long */
+
+/**
+* Project header
+*/
+$project-image-size: 100px;
+$border-color: black;
+
+.project-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  max-width: 600px;
+  margin: 2rem auto;
+
+  .project-image {
+    width: $project-image-size;
+    height: $project-image-size;
+    object-fit: cover;
+    border: 1px solid $border-color;
+    border-radius: 8px;
+  }
+
+  .project-details {
+    flex: 1;
+
+    h1 {
+      margin: 0 0 0.5rem;
+      font-size: 1.5rem;
+    }
+
+    p {
+      margin: 0;
+      color: var(--text-color);
+    }
+  }
+}

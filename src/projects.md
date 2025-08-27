@@ -6,4 +6,7 @@ permalink: /projects
 
 # Projects
 
-This are the projects lorem ipsum.
+{% for project in site.projects %}
+# [{{ project.title }}]({{ project.url }})
+<p>{{ project.description }}</p>
+{% endfor %}
