@@ -11,6 +11,12 @@ computer_science_books:
     published: "2008"
     description: "A practical guide to writing readable, maintainable, and efficient code, with real-world examples and principles."
 
+  - title: "Get Your Hands Dirty On Clean Architecture"
+    author: "Tom Hombergs"
+    isbn: "9781805128373"
+    published: "2023"
+    description: "An opiniated guide to applying the principles of clean architecture. Hombergs focuses on a hexagonal architecture while always explaining its key benefits and disadvantages."
+
   - title: "The Clean Coder: A Code of Conduct for Professional Programmers"
     author: "Robert C. Martin"
     isbn: "9780137081073"
@@ -21,7 +27,7 @@ computer_science_books:
     author: "Andrew Hunt and David Thomas"
     isbn: "9780135957059"
     published: "2019"
-    description: "A modern classic that offers timeless advice on becoming a better programmer. Covers everything from career development to architectural techniques, with practical tips and memorable analogies like 'rubber duck debugging' and 'stone soup.'"
+    description: "A modern classic that offers advice on becoming a better programmer. Covers everything from career development to architectural techniques, with practical tips and memorable analogies like 'rubber duck debugging' and 'stone soup.'"
 
   - title: "Test Driven Development for Embedded C"
     author: "James W. Grenning"
@@ -45,4 +51,4 @@ computer_science_books:
     author: "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein"
     isbn: "9780262046305"
     published: "2022"
-    description: "Widely regarded as the definitive textbook on algorithms, this comprehensive volume covers everything from basic data structures to advanced algorithmic techniques. Written with mathematical rigor and clarity, it’s a staple in university courses and a trusted reference for professionals in the field."
+    description: "Widely regarded as the definitive textbook on algorithms, this comprehensive volume covers everything from basic data structures to advanced algorithmic techniques. Written with mathematical rigor and clarity."
