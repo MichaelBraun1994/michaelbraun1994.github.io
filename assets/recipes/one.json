@@ -1,10 +1,17 @@
 {
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "name": "Simple Salad with Tofu",
-  "recipeIngredient": [
-    "Tomaten",
-    "Gurken",
-    "Tofu"
-  ]
+    "directions": [
+        "Buy"
+    ],
+    "ingredients": [
+        "Tomaten",
+        "Tofu",
+        "Gurke"
+    ],
+    "language": "de-DE",
+    "source": "www.michaelbraun.dev",
+    "tags": [
+        "Salad"
+    ],
+    "title": "Salad",
+    "url": "https://michaelbraun.dev/assets/recipes/one.json"
 }
