@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "Simple Salad with Tofu",
+  "recipeIngredient": [
+    "Tomaten",
+    "Gurken",
+    "Tofu"
+  ]
+}
