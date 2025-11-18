@@ -1,0 +1,59 @@
+{
+	"@context": "https://schema.org",
+	"@type": "Recipe",
+	"name": "Schokoladen‑Kekse",
+	"description": "Schnelle, klassische Schoko‑Cookies mit knusprigem Rand und weichem Kern.",
+	"image": [
+		"https://example.com/images/schokoladen-kekse.jpg"
+	],
+	"author": {
+		"@type": "Person",
+		"name": "Dein Name"
+	},
+	"datePublished": "2025-11-18",
+	"recipeCuisine": "International",
+	"keywords": "Cookies, Kekse, Schokolade",
+	"recipeCategory": "Dessert",
+	"recipeYield": "24 Stück",
+	"prepTime": "PT15M",
+	"cookTime": "PT10M",
+	"totalTime": "PT25M",
+	"nutrition": {
+		"@type": "NutritionInformation",
+		"calories": "120 kcal"
+	},
+	"recipeIngredient": [
+		"250 g Mehl (Type 405)",
+		"150 g Zucker",
+		"100 g brauner Zucker",
+		"1 TL Backpulver",
+		"1/2 TL Natron",
+		"1/2 TL Salz",
+		"125 g Butter, geschmolzen und leicht abgekühlt",
+		"1 Ei (Größe M)",
+		"1 TL Vanilleextrakt",
+		"200 g Zartbitterschokoladen‑Chunks oder Tropfen"
+	],
+	"recipeInstructions": [
+		{
+			"@type": "HowToStep",
+			"text": "Backofen auf 180 °C Ober/Unterhitze vorheizen. Ein Blech mit Backpapier auslegen."
+		},
+		{
+			"@type": "HowToStep",
+			"text": "Mehl, Zucker, braunen Zucker, Backpulver, Natron und Salz in einer Schüssel verrühren."
+		},
+		{
+			"@type": "HowToStep",
+			"text": "Butter, Ei und Vanille zugeben und zu einem Teig vermengen. Schokoladen‑Chunks unterheben."
+		},
+		{
+			"@type": "HowToStep",
+			"text": "Mit einem Esslöffel 24 Teigportionen abstechen, mit Abstand auf das Blech setzen."
+		},
+		{
+			"@type": "HowToStep",
+			"text": "10–12 Minuten backen, bis die Ränder goldbraun sind. Auf einem Gitter auskühlen lassen."
+		}
+	]
+}
