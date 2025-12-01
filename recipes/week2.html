@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Week 2</title>
+
+  <!-- JSON-LD Schema.org Recipe for Bring import -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "name": "Week 2",
+    "description": "Burger Woche",
+    "image": [
+      "https://example.com/images/schokoladen-kekse.jpg"
+    ],
+    "author": {
+      "@type": "Person",
+      "name": "Dein Name"
+    },
+    "datePublished": "2025-11-18",
+    "recipeCuisine": "International",
+    "keywords": "Cookies, Kekse, Schokolade",
+    "recipeCategory": "Dessert",
+    "recipeYield": "24 Stück",
+    "prepTime": "PT15M",
+    "cookTime": "PT10M",
+    "totalTime": "PT25M",
+    "nutrition": {
+      "@type": "NutritionInformation",
+      "calories": "120 kcal"
+    },
+    "recipeIngredient": [
+	"Aufschnitt"
+	"Burger Buns",
+	"Burger Patties",
+	"Burger Kaese",
+	"Salat",
+	"3 Tomate",
+	"Essiggurken",
+	"Kartoffeln",
+	"Zuccini",
+	"Paprika",
+	"Zwiebeln",
+	"Koerniger Frischkaese",
+	"Bulgur",
+	"Kirschtomaten",
+	"Wraps",
+	"Tofu",
+	"Fake Chicken",
+	"Gurke",
+	"Brot", 
+	"Butter", 
+	"Aufschnitt"
+    ]
+  }
+  </script>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      font-size: x-large;
+      background: linear-gradient(135deg, #f9f9f9, #e3f2fd);
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #1976d2;
+      color: white;
+      padding: 1.5rem;
+      text-align: center;
+    }
+    h1 {
+      margin: 0;
+      font-size: 4rem;
+    }
+    main {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 2rem;
+    }
+    section {
+      margin: 1.5rem 0;
+      width: 100%;
+      max-width: 600px;
+    }
+    h2 {
+      color: #1976d2;
+      margin-bottom: 0.5rem;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    li {
+      margin: 0.5rem 0;
+    }
+    li::before {
+      content: "• ";
+      color: #1976d2;
+      font-weight: bold;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: #555;
+    }
+    a {
+      color: #1976d2;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .card {
+      background-color: #ffffff;
+      border-radius: 8px;
+      padding: 1rem;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Week 1</h1>
+    <p>Pizza Woche</p>
+  </header>
+
+  <main>
+    <section class="card">
+      <h2>Rezepte</h2>
+      <ul>
+	<li>Burger</li>
+	<li>Ofengemüse</li>
+	<li>Sueskartoffelbowl</li>
+	<li>Wraps</li>
+	<li>Bulgursalat</li>
+	<li>Brotzeit</li>
+      </ul>
+    </section>
+
+    <section class="card">
+      <h2>Einkaufsliste</h2>
+      <ul>
+	<li>Burger Buns</li>
+	<li>Burger Patties</li>
+	<li>Burger Kaese</li>
+	<li>Salat</li>
+	<li>3 Tomate</li>
+	<li>Essiggurken</li>
+	<li>Kartoffeln</li>
+	<li>Zuccini</li>
+	<li>Paprika</li>
+	<li>Zwiebeln</li>
+	<li>Koerniger Frischkaese</li>
+	<li>Bulgur</li>
+	<li>Kirschtomaten</li>
+	<li>Wraps</li>
+	<li>Tofu</li>
+	<li>Fake Chicken</li>
+	<li>Gurke</li>
+	<li>Brot</li> 
+	<li>Butter</li> 
+	<li>Aufschnitt</li> 
+      </ul>
+    </section>
+
+    <!-- Bring import widget -->
+    <script async src="//platform.getbring.com/widgets/import.js"></script>
+    <div data-bring-import="" style="display:none"></div>
+    <p>
+      <a href="https://www.getbring.com">Bring! Einkaufsliste App für iPhone und Android</a>
+    </p>
+  </main>
+</body>
+</html>
