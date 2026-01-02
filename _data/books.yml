@@ -11,6 +11,12 @@ computer_science_books:
     published: "2008"
     description: "A practical guide to writing readable, maintainable, and efficient code, with real-world examples and principles."
 
+  - title: "Refactoring: Improving the Design of Existing Code"
+    author: "Martin Fowler"
+    isbn: "9780134757599"
+    published: "2018"
+    description: "A catalog of behavior-preserving transformations. Helps developers to recognize code smells and systematically enhance software design."
+
   - title: "Get Your Hands Dirty On Clean Architecture"
     author: "Tom Hombergs"
     isbn: "9781805128373"
