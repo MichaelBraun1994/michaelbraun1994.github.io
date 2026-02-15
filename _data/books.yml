@@ -17,6 +17,12 @@ computer_science_books:
     published: "2018"
     description: "A catalog of behavior-preserving transformations. Helps developers to recognize code smells and systematically enhance software design."
 
+  - title: "Working Effectively with Legacy Code"
+    author: "Michael Feathers"
+    isbn: "9780131177055"
+    published: "2004"
+    description: "A foundational guide for developers who inherit, maintain, or modernize existing codebases. Feathers introduces practical techniques for safely bringing code under test, identifying seams for refactoring, and breaking dependencies in legacy systems."
+
   - title: "Get Your Hands Dirty On Clean Architecture"
     author: "Tom Hombergs"
     isbn: "9781805128373"
